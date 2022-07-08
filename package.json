@@ -1,0 +1,11 @@
+{
+  "name": "repro-pinia-vue2.7",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Jumpei Ogawa",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "@nuxtjs/composition-api": "0.33.0",
+    "pinia": "2.0.14"
+  }
+}
